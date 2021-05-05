@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mayores100", "Mayores100\Mayores100.csproj", "{115773D6-9F74-4134-8BF9-EA7042701414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115773D6-9F74-4134-8BF9-EA7042701414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115773D6-9F74-4134-8BF9-EA7042701414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115773D6-9F74-4134-8BF9-EA7042701414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115773D6-9F74-4134-8BF9-EA7042701414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E96351-F772-4D06-B6B0-8821C26B0F8A}
+	EndGlobalSection
+EndGlobal
